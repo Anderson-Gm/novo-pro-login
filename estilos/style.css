@@ -15,7 +15,7 @@ platinum: #E5E4E2
 }
 
 body, html {
-    background-color:#d3d4da;
+    background-color:#818284;
     height: 100vh;
     width: 100vw;
 }
@@ -96,11 +96,13 @@ div#formulario > h1 {
     height: 40px;
     padding-top: 5px;
     margin-top: 5px;
+    margin-bottom: 5px;
     background-color: #BEBFC5;
     color:black ;
-    
     border-radius: 7px;
  }
+
+
  form > a.botao:hover {
     background-color: #49a09d;
     color: white;
